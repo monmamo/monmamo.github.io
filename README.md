@@ -4,6 +4,8 @@ Note: The official specification and rules is still in and will always live in t
 
 # (Proposed) Structure
 
+(Note: Reserve file names that begin with underscore for those pertaining to the Jekyll engine.)
+
 ## /assets
 
 ## /characters
